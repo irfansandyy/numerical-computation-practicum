@@ -1,6 +1,5 @@
 # Tugas Praktikum Komputasi Numerik B
 
-| ---- | ----- |
 | Nama |  NRP  |
 | ---- | ----- |
 | Mochammad Irfan Sandy | 5025241127 |
